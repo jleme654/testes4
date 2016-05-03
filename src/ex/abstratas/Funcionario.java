@@ -1,4 +1,4 @@
-package abstratas;
+package ex.abstratas;
 
 public class Funcionario extends Pessoa {
 	

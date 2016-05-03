@@ -1,4 +1,4 @@
-package primes;
+package ex.primes;
 
 import java.util.Scanner;
 
